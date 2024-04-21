@@ -1,4 +1,4 @@
-export const BASE_PATH = ''
+export const BASE_PATH = 'antennaApp'
 
 export const BASE_URL_API = import.meta.env.VITE_BASE_URL_API
 
